@@ -1,0 +1,141 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+header.navbar {
+    padding: 16px 32px;
+}
+
+header .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.hero {
+    padding: 80px 0;
+    background-color: #fff;
+    text-align: left;
+}
+
+.hero h1 {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.hero p {
+    font-size: 20px;
+    margin-bottom: 32px;
+}
+
+.hero img {
+    max-width: 100%;
+    height: auto;
+}
+
+.services {
+    padding: 80px 0;
+    background-color: #fff;
+}
+
+.services h2 {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.services p {
+    font-size: 16px;
+    margin-bottom: 48px;
+}
+
+.services .card {
+    border: none;
+    padding: 32px;
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.services .card:hover {
+    transform: translateY(-10px);
+}
+
+.services .card-body {
+    padding: 0;
+}
+
+.services img {
+    max-width: 50%;
+    height: auto;
+    margin-bottom: 16px;
+}
+
+.services h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.services p {
+    font-size: 16px;
+}
+
+.features {
+    padding: 80px 0;
+    background-color: #f1f4f9;
+}
+
+.features h3 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.features p {
+    font-size: 16px;
+    margin-bottom: 32px;
+}
+
+.features img {
+    max-width: 100%;
+    height: auto;
+}
+
+.footer {
+    background-color: #fff;
+    padding: 48px 0;
+    border-top: 1px solid #e9ecef;
+}
+
+.footer h5 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer ul li {
+    margin-bottom: 8px;
+}
+
+.footer ul li a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.footer ul li a:hover {
+    text-decoration: underline;
+}
+
+.footer p {
+    margin-top: 32px;
+    font-size: 14px;
+    color: #6c757d;
+}
